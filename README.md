@@ -10,4 +10,4 @@ The goal is to create a project that simplifies the monotonous routine work of t
 * Koniaiev Dima (https://github.com/DimaKnight)
 * Bekir Eduard (https://github.com/edikbekir)
 * Byzkrovnyi Alexander (https://github.com/Byzkrovnyi)
-* Golovashchenko Vadym (https://github.com/Golovacschenko)
+* Golovashchenko Vadym (https://github.com/Golova1111)
